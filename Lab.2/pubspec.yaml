@@ -1,0 +1,45 @@
+name: lab1
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/ora.png
+    - assets/images/siba.png
+    - assets/images/mappoint.png
+    - assets/images/photo_profile.png
+    - assets/images/home_card.png
+    - assets/images/search-normal.png
+    - assets/images/Filter.png
+    - assets/images/Rectangle1547.png
+    - assets/images/Rectangle1548.png
+    - assets/images/Rectangle1549.png
+    - assets/images/Map_Point.png
+    - assets/images/Star.png
+    - assets/images/SquareArrowRightUp.png
+    - assets/images/Pict.png
+    - assets/images/CalendarMark.png
+    - assets/images/Slider1.png
+    - assets/images/Rectangle1547_1.png
+    - assets/images/Rectangle1547_2.png
+    - assets/images/Rectangle1547_3.png
+  fonts:
+    - family: Plus Jakarta Sans
+      fonts:
+        - asset: assets/fonts/plus-jakarta-sans-latin-400-normal.ttf
+          weight: 400
